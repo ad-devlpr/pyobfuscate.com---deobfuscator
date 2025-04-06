@@ -1,7 +1,7 @@
 # pyobfuscate.com---deobfuscator
 Decrypts/deobfuscates pyobfuscate obfuscated python scripts. Goes to show how shit and probably pasted it is.
 
-SINGLE LAYER - if your script is obfsucated only once, meaning it can be decrypted by running decryptor on it on the first attempt.
+SINGLE LAYER - if your script is obfuscated only once, meaning it can be decrypted by running decryptor on it on the first attempt.
 MULTIPLE LAYER - if your script is obfuscated more than once, meaning even after trying to decrypt it once (after trying to run single_Layer) on it, it's still obfuscated.
 
 In the near future, I'll combine both into one file and make it so that you can choose the mode, single or multiple. I was just too lazy.
